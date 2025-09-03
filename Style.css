@@ -1,8 +1,9 @@
 /* Estilos generales */
+
 :root {
     --primary-color: #5e2129;
     --secondary-color: #5e2129;
-    --text-color: #333333;;
+    --text-color: #333333;
     --background-color: #f4f4f4;
     --light-gray: #ecf0f1;
 }
@@ -213,6 +214,3 @@ body {
     }
 
 }
-
-
-
